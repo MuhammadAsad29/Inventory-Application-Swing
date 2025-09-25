@@ -20,7 +20,7 @@
 2. Open a terminal and navigate to the `src` directory that contains `InventoryApplication.java`:
 
 ```bash
-cd "Inventory Swing/src"
+cd "Inventory Application Swing/src"
 ```
 
 3. Compile the Java source (this creates `.class` files):
@@ -71,7 +71,6 @@ Important methods in `InventoryApp` (high level):
 ## License & Author
 
 ```
-## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Author: Muhammad Asad
